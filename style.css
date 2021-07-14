@@ -17,7 +17,7 @@ body {
 /* header styles*/
 header {
     padding: 20px 35px;
-    background-color: #0a2527;
+    background-color: white;
     display:flex;
     justify-content: space-between;
     flex-wrap: wrap;
